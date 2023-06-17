@@ -1,7 +1,5 @@
 Hi, I'm Naga Vardhan Chebrolu 👋
-I'm a student at Vellore Institute of Technology, Chennai, and a member of the Microsoft Innovations Club. 
-I'm passionate about artificial intelligence and currently exploring Microsoft Azure AI fundamentals. 
-I'm also working on an NFC-based attendance system for the club using Python and MySQL.
+I'm a student at Vellore Institute of Technology, Chennai, and a member of the Microsoft Innovations Club. I'm passionate about artificial intelligence and currently exploring Microsoft Azure AI fundamentals. I'm also working on an NFC-based attendance system for the club using Python and MySQL.
 
 🔭 Current Projects
 Building an NFC-based attendance system using Python and MySQL
