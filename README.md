@@ -19,7 +19,9 @@ Tools and Technologies: Git, Linux
 📫 Contact Me
 
 LinkedIn: vardhanchebrolu
+
 Twitter: @vardhu9999
+
 Instagram: @vardhanchebrolu__05
 
 ⚡ Fun fact
