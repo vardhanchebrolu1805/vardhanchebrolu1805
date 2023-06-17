@@ -1,5 +1,7 @@
 Hi, I'm Naga Vardhan Chebrolu 👋
-I'm a student at Vellore Institute of Technology, Chennai, and a member of the Microsoft Innovations Club. I'm passionate about artificial intelligence and currently exploring Microsoft Azure AI fundamentals.
+
+I'm an Undergraduate at Vellore Institute of Technology, Chennai, and a member of the Microsoft Innovations Club.
+I have a strong interest in artificial intelligence and currently exploring Microsoft Azure AI fundamentals.
 
 🔭 Current Projects
 
