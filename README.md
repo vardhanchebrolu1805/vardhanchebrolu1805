@@ -6,14 +6,19 @@ I have a strong interest in artificial intelligence and currently exploring Micr
 🔭 Current Projects
 
 Building an NFC-based attendance system using Python and Flask
+
 Exploring Microsoft Azure AI fundamentals
+
 Contributing to Microsoft Innovations Club for NFC-based attendance system
 
 🌱 Skills
 
 Programming Languages: Python, C++, Go, Java
+
 Web Development: HTML, Flask
+
 Databases: MySQL
+
 Tools and Technologies: Git, Linux
 
 📫 Contact Me
